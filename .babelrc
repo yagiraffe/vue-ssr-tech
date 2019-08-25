@@ -1,0 +1,11 @@
+{
+    "presets": [
+        "env",
+        "stage-1"
+    ],
+    "plugins": [
+        // 用于转化vue里的jsx代码
+        "transform-vue-jsx",
+        "syntax-dynamic-import"
+    ]
+}
